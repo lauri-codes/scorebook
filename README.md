@@ -1,4 +1,9 @@
 # ScoreBook
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/github/lauri-codes/scorebook/development_assets/1.jpg)  |  ![](https://github.com/github/lauri-codes/scorebook/development_assets/2.jpg)
+
 ScoreBook is a simple mobile application for keeping track of scores in e.g. card games, darts, uno, etc. You can find the published version in Google Play Store. 
 
 This application uses the Qt application framework, and is thus easily extensible to all the Qt supported platforms (Android, iOS, Windows, Linux, OS X, WinRT, etc.)
