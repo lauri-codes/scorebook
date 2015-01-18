@@ -1,8 +1,8 @@
 # ScoreBook
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://github.com/github/lauri-codes/scorebook/development_assets/1.jpg)  |  ![](https://github.com/github/lauri-codes/scorebook/development_assets/2.jpg)
+<img style="float: right; width: 32%;" src="https://raw.githubusercontent.com/lauri-codes/scorebook/master/development_assets/1.jpg">
+<img style="float: right; width: 32%;" src="https://raw.githubusercontent.com/lauri-codes/scorebook/master/development_assets/2.jpg">
+<img style="float: right; width: 32%;" src="https://raw.githubusercontent.com/lauri-codes/scorebook/master/development_assets/3.jpg">
 
 ScoreBook is a simple mobile application for keeping track of scores in e.g. card games, darts, uno, etc. You can find the published version in Google Play Store. 
 
