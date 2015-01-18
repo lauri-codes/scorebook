@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/checked.png</file>
+        <file>images/checked_pressed.png</file>
+        <file>images/unchecked.png</file>
+        <file>images/unchecked_pressed.png</file>
+        <file>images/checked_light.png</file>
+        <file>images/checked_pressed_light.png</file>
+        <file>images/unchecked_light.png</file>
+        <file>images/unchecked_pressed_light.png</file>
+        <file>images/refresh_symbol.svg</file>
+        <file>images/play_button.svg</file>
+    </qresource>
+</RCC>
