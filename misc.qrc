@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>misc/Style.js</file>
+        <file>misc/Roboto-Light.ttf</file>
+    </qresource>
+</RCC>

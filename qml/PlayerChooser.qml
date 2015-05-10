@@ -110,7 +110,7 @@ Item {
                         leftMargin: 0.05*app.touchSize
                         verticalCenter: parent.verticalCenter
                     }
-                    m_highlightColor: Style.color_orange
+                    m_highlightColor: Style.color_orange_dark
                     m_selected: modelData.onGame
                     onClicked: if (modelData.onGame) {
                                    modelData.onGame = false

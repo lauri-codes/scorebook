@@ -200,7 +200,7 @@ Item {
                 margins: 1
             }
             width: 0.37*app.touchSize
-            color: modelData.roundNumber === playerHandler.roundNumber ? Style.color_blue_light : Style.color_orange
+            color: modelData.roundNumber === playerHandler.roundNumber ? Style.color_blue_light : Style.color_orange_dark
 
             DefaultText {
                 anchors.centerIn: parent

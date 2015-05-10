@@ -64,7 +64,7 @@ Rectangle {
                     leftMargin: 0.5*app.touchSize
                     rightMargin: 0.35*app.touchSize
                 }
-                m_bgColor: Style.color_orange
+                m_bgColor: Style.color_orange_dark
                 m_buttonText: "Yes"
                 onClicked: root.yes()
                 m_text.font.pixelSize: 0.8*app.textMedium
@@ -79,7 +79,7 @@ Rectangle {
                     rightMargin: 0.5*app.touchSize
                     leftMargin: 0.35*app.touchSize
                 }
-                m_bgColor: Style.color_orange
+                m_bgColor: Style.color_orange_dark
                 m_buttonText: "No"
                 onClicked: root.no()
                 m_text.font.pixelSize: 0.8*app.textMedium
